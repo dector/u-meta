@@ -1,0 +1,10 @@
+{
+  umetaVersion: 0.1
+
+  title: Another One Useless Library
+  description: Still better than sh*t you will write (maybe not).
+  version: 0.1
+  url: https://github.com/dector/u-meta
+
+  versioning: ["semver", "2.0.0"]
+}
