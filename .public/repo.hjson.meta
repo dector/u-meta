@@ -1,0 +1,10 @@
+{
+  umetaVersion: 0.1
+
+  title: Micro-Meta
+  description: Universal micro-meta data for git repositories.
+  version: 0.1
+  url: https://github.com/dector/u-meta
+
+  versioning: ["semver", "2.0.0"]
+}
